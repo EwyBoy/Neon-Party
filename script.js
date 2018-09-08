@@ -60,6 +60,7 @@ function getRandomIntInRange(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
+/* Picks a color depending on the random number it receives */
 function getRandomColor(i) {
     switch(i) {
         case 0: return "#0062FF"; break;
