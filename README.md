@@ -8,5 +8,5 @@ With 20 drunk people stuffed into my dorm and these crazy aids flashing lights I
 
 ###### How to use:
 1. Downlaod this the src code and run the index.html file in any modern browser or click this link here: [NEON PARTY](https://cdn.rawgit.com/EwyBoy/Neon-Party/5b3e6e8d/index.html)
-2. Then press f11 to run it in fullscreen.
+2. Then press F11 to run it in fullscreen.
 3. Put on some crazy rave shit music and enjoy.
